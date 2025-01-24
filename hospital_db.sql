@@ -16,7 +16,7 @@ DESCRIBE user;
 
 INSERT INTO user
 (usr_id,password, name, phone)
-VALUES('chwo65','scc8932','최현우','01012345678');
+VALUES('1','1','1','1');
 
 CREATE TABLE user
 (
